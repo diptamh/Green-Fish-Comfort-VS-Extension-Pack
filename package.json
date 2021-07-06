@@ -1,0 +1,39 @@
+{
+    "name": "green-fish-comfort",
+    "displayName": "Green Fish Comfort",
+    "publisher": "Diptam",
+    "description": "Extensions created with Salesforce Apex Programing in mind",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "salesforce.salesforcedx-vscode-apex",
+        "modicatech.apex-code-coverage-visualizer",
+        "salesforce.salesforcedx-vscode-apex-debugger",
+        "financialforce.lana",
+        "chuckjonas.apex-pmd",
+        "salesforce.salesforcedx-vscode-apex-replay-debugger",
+        "salesforce.salesforcedx-vscode-lightning",
+        "coenraads.bracket-pair-colorizer-2",
+        "salesforce.codey-s-in-bed-by-10",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "knisterpeter.vscode-github",
+        "atlassian.atlascode",
+        "salesforce.salesforcedx-vscode-lwc",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "salesforce.salesforcedx-vscode-core",
+        "salesforce.salesforcedx-vscode",
+        "salesforce.salesforcedx-vscode-expanded",
+        "salesforce.salesforce-vscode-slds",
+        "salesforce.salesforcedx-vscode-visualforce",
+        "redhat.vscode-yaml"
+    ]
+}
