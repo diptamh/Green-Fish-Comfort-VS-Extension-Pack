@@ -2,14 +2,22 @@
     "name": "green-fish-comfort",
     "displayName": "Green Fish Comfort",
     "publisher": "Diptam",
+    "author": {
+        "name": "Diptam"
+      },
     "description": "Extensions created with Salesforce Apex Programing in mind",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.57.0"
     },
-    "categories": [
-        "Extension Packs"
-    ],
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diptamh/Green-Fish-Comfort-VS-Extension-Pack.git"
+    },
+    "icon": "GreenFishLogo.PNG",
+    "homepage": "https://github.com/diptamh/Green-Fish-Comfort-VS-Extension-Pack/blob/main/README.md",
+    "categories": ["Extension Packs"],
     "extensionPack": [ 
         "salesforce.salesforcedx-vscode",
         "salesforce.salesforcedx-vscode-expanded",
