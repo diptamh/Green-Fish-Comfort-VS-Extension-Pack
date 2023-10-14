@@ -30,6 +30,15 @@ The list of original Extension catered in the pack
 - Java 11 installed and working
 - A working install of the SFDX CLI
 
+## How to update the list of extension
+- Make the changes on the package.json and add/remove the extensions
+- Run `npm install -g @vscode/vsce`
+- Then go to https://dev.azure.com/
+- Login and go to User Settings and click on Personal Access token
+- Create a new token and copy it.
+- Go back to terminal and run `vsce publish`
+- When the token is asked for paste it and the changes will get published.
+- You can see the published status at https://marketplace.visualstudio.com/manage/publishers/diptam?noPrompt=true
 
 ## Development
 
