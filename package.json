@@ -1,14 +1,14 @@
 {
     "name": "green-fish-comfort",
-    "displayName": "Green Fish Comfort",
+    "displayName": "Salesforce Dev Extension",
     "publisher": "Diptam",
     "author": {
         "name": "Diptam"
       },
     "description": "Extensions created with Salesforce Apex Programing in mind",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "engines": {
-        "vscode": "^1.57.0"
+        "vscode": "^1.61.0 "
     },
     
     "repository": {
@@ -18,20 +18,28 @@
     "icon": "GreenFishLogo.PNG",
     "homepage": "https://github.com/diptamh/Green-Fish-Comfort-VS-Extension-Pack/blob/main/README.md",
     "categories": ["Extension Packs"],
+    "keywords": [
+        "salesforce",
+        "apex",
+        "code",
+        "vscode",
+        "extension",
+        "diptam"
+      ],
     "extensionPack": [ 
         "salesforce.salesforcedx-vscode",
         "salesforce.salesforcedx-vscode-expanded",
-        "financialforce.lana",
-        "chuckjonas.apex-pmd",
-        "dbaeumer.vscode-eslint",
-        "knisterpeter.vscode-github",
         "esbenp.prettier-vscode",
-        "pkief.material-icon-theme",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "vscode-icons-team.vscode-icons",
+        "aaron-bond.better-comments",
+        "oderwat.indent-rainbow",
+        "chuckjonas.apex-pmd",
+        "financialforce.lana",
+        "streetsidesoftware.code-spell-checker",
         "redhat.vscode-yaml",
-        "donjayamanne.githistory",
-        "coenraads.bracket-pair-colorizer-2",
-        "mhutchie.git-graph",
-        "modicatech.apex-code-coverage-visualizer",
         "salesforce.codey-s-in-bed-by-10"
     ]
 }

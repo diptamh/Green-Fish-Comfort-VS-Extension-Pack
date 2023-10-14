@@ -40,6 +40,15 @@ The list of original Extension catered in the pack
 - When the token is asked for paste it and the changes will get published.
 - You can see the published status at https://marketplace.visualstudio.com/manage/publishers/diptam?noPrompt=true
 
+## Extra
+
+Installing 'Cascadia Code' : 
+- Go to https://github.com/microsoft/cascadia-code/releases
+- Download the latest release and unpack
+- Install the desired version
+- To apply to VsCode follow the steps here : https://github.com/microsoft/cascadia-code/wiki/Installing-Cascadia-Code
+
+
 ## Development
 
 Want to contribute? Great!
