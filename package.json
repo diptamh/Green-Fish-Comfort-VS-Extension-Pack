@@ -8,7 +8,7 @@
     "description": "Extensions created with Salesforce Apex Programing in mind",
     "version": "1.0.0",
     "engines": {
-        "vscode": "^1.61.0 "
+        "vscode": "^1.57.0"
     },
     
     "repository": {
